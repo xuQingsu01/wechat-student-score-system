@@ -233,23 +233,19 @@ wechat-student-score-system/
 
 ## 🎨 功能演示
 
-### 教师仪表盘
-![教师仪表盘](/screenshots/TeacherPortal/TeachersPanel.PNG)
-*实时数据统计和可视化分析*
+### 教师仪表盘（实时数据统计和可视化分析）
+<img src="/screenshots/TeacherPortal/TeachersPanel.PNG" alt="教师端首页" width="400">
 
-### 成绩分析
-![成绩分析](/screenshots/ParentPortal/Index01.PNG)
-*ECharts图表展示成绩趋势*
+### 成绩分析（ECharts图表展示成绩趋势）
+<img src="/screenshots/ParentPortal/Index01.PNG" alt="成绩分析页" width="400">
 
-### Excel导入
-![Excel导入](/screenshots/TeacherPortal/StudentsImport.PNG)
-*批量导入学生*
+### Excel导入（批量导入学生）
+<img src="/screenshots/TeacherPortal/StudentsImport.PNG" alt="学生信息导入" width="400">
 
-### 隐私合规
-![隐私保护](/screenshots/Common/Privacy.PNG)
-*完整的隐私保护方案*
+### 隐私合规（完整的隐私保护方案）
+<img src="/screenshots/Common/Privacy.PNG" alt="学生信息导入" width="400">
 
-> 💡 更多截图请查看 [PRODUCT_GUIDE.md](PRODUCT_GUIDE.md)
+> 💡 更多截图请查看 [/screenshots](/screenshots)
 
 ---
 
