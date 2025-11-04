@@ -252,18 +252,18 @@ wechat-student-score-system/
 ## 📚 文档索引
 
 ### 核心文档
-- [📖 完整产品介绍](PRODUCT_GUIDE.md) - 详细功能说明和界面展示
+- [📖 完整产品介绍](PURCHASE.md) - 详细功能说明和界面展示
 - [💰 购买和授权](PURCHASE.md) - 价格、购买流程、技术支持
-- [🚀 部署指南](docs/DEPLOYMENT_GUIDE.md) - 完整部署步骤（购买后提供）
+- [🚀 部署指南] - 完整部署步骤（购买后提供）
 
 ### 功能文档
-- [教师仪表盘说明](TEACHER_DASHBOARD_README.md)
-- [家长管理设计](PARENT_MANAGEMENT_DESIGN.md)
-- [作业系统部署](HOMEWORK_MVP_DEPLOYMENT_GUIDE.md)
+- [教师仪表盘说明]……
+- [家长管理设计]……
+- [作业系统部署]……
 
 ### 数据库设计
-- [用户注销数据库设计](USER_DELETION_DATABASE_DESIGN.md)
-- [作业系统数据库设计](HOMEWORK_DATABASE_DESIGN.md)
+- [用户注销数据库设计]……
+- [作业系统数据库设计]……
 
 ### 配置指南
 - [隐私保护配置指南](PRIVACY_SETUP_GUIDE.md)
