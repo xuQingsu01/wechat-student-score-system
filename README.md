@@ -76,6 +76,7 @@
 | `teacher_applications` | 教师申请 |
 | `user_deletion_requests` | 账户注销申请 |
 | `data_deletion_logs` | 删除操作日志 |
+| …… | …… |
 
 ---
 
